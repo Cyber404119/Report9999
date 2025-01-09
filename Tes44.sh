@@ -19,7 +19,7 @@ blokir_nomor() {
 
 # Banner Tools
 echo -e "${blue}============================== "
-echo -e "${yellow}    BY Thonxyzz404 "
+echo -e "${yellow}      BY Thonxyzz404 "
 echo -e "${blue}============================== "
 echo -e "${green}
 
